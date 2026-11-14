@@ -1,10 +1,13 @@
 # Sales Performance and Revenue Analysis Dashboard
 
+![Sales Performance Dashboard](Sales-dashboard.png)
+
 ## Project Overview
 
 What drives revenue, which products generate the most profit, and how does sales performance vary across representatives and locations?
 This project explores sales performance using Microsoft Excel, transforming sales data into an interactive dashboard that provides a clear overview of business performance and helps uncover meaningful patterns across key business areas.
 The dashboard brings together financial performance, sales representative contributions, product profitability, city-level costs and monthly customer trends in one place.
+**Explore the Project:** [View or download the Excel workbook](./Sales-Performance-Analysis.xlsx)
 
 ## Project Objectives
 
@@ -41,13 +44,6 @@ Some notable findings from the dashboard include:
 
 **Techniques:** Data analysis, KPI calculations, PivotTables, PivotCharts, interactive slicers and dashboard design.
 
+## Conclusion
 
-## Dashboard Preview
-
-The interactive dashboard brings together key financial indicators and visualizations to provide an overview of sales performance
-![Sales Performance Dashboard](Sales-dashboard.png)
-
-
-## Project Files
-
-The workbook contains the underlying sales data, analysis and interactive dashboard: View or download the Excel workbook
+This project demonstrates how Microsoft Excel can be used to transform raw sales data into meaningful business insights. By bringing together financial performance, product profitability, sales representative contributions and customer trends, the dashboard provides a consolidated view of business performance. It also highlights the value of interactive data visualisation in making information easier to explore, interpret and use for informed decision-making.
