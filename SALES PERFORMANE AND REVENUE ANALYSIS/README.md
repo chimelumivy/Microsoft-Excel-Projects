@@ -7,7 +7,11 @@
 What drives revenue, which products generate the most profit, and how does sales performance vary across representatives and locations?
 This project explores sales performance using Microsoft Excel, transforming sales data into an interactive dashboard that provides a clear overview of business performance and helps uncover meaningful patterns across key business areas.
 The dashboard brings together financial performance, sales representative contributions, product profitability, city-level costs and monthly customer trends in one place.
-**Explore the Project:** [View or download the Excel workbook](./Sales-Performance-Analysis.xlsx)
+
+**View Workbook Online:** [Open in Excel for the web](https://1drv.ms/x/c/df7f0bbb414726f8/IQB9PXR08NgcTI2AxYNcZUI9Aaba5mMfrHKOThVj75Co_3E?e=9c0yC1)
+
+**Download Workbook:** [Download the Excel file](./Sales-Performance-Analysis.xlsx)
+
 
 ## Project Objectives
 
