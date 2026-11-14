@@ -45,6 +45,7 @@ Some notable findings from the dashboard include:
 ## Dashboard Preview
 
 The interactive dashboard brings together key financial indicators and visualizations to provide an overview of sales performance
+![Sales Performance Dashboard](Sales-dashboard.png)
 
 
 ## Project Files
