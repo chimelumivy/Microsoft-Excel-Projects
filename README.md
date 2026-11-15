@@ -1,16 +1,30 @@
-# Welcome to my Excel Projects repository!
+# Microsoft Excel Projects
 
-This repository showcases my practical work in data analysis using Microsoft Excel. It highlights how I work with raw data, organise and analyse information, identify trends, and transform data into meaningful insights that support better decision-making.
+Welcome to my Microsoft Excel Projects repository!
 
-My projects explore different aspects of data analysis, including:
+This repository showcases my ability to use **Microsoft Excel for data cleaning, analysis, visualization, and reporting**, transforming raw data into meaningful insights that support data-driven decision-making.
 
-- Data cleaning and preparation
-- Exploratory data analysis
-- Pivot tables and interactive slicers
-- KPI calculations and performance tracking
-- Data visualisation and reporting
-- Identifying trends and actionable insights
+## Projects
 
-Each project demonstrates my growing analytical skills and practical application of Excel in solving real-world data problems.
+Individual project pages are available below:
 
-Thank you for visiting!
+1. [Sales Performance and Revenue Analysis](https://github.com/chimelumivy/Microsoft-Excel-Projects/tree/main/SALES%20PERFORMANCE%20AND%20REVENUE%20ANALYSIS)
+
+More projects will be added as this repository grows.
+
+## Tools and Technologies
+
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Visualization
+
+## Conclusion
+
+Each project in this repository represents an opportunity to strengthen my analytical skills, solve practical data challenges, and turn raw data into meaningful insights. I look forward to sharing more of my learning and projects as I continue to grow as a data analyst.
+
+---
+
+**Thank you for visiting my portfolio!**
